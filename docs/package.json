@@ -11,7 +11,7 @@
     "marked": "^0.3.6",
     "raw-loader": "^0.5.1",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "react-dom": "^16.0.1",
     "react-story": "^0.0.10"
   },
   "scripts": {
